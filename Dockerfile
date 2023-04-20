@@ -8,7 +8,7 @@ MAINTAINER Mike Heijmans <parabuzzle@gmail.com>
 # Add env variables
 ENV PORT=80 \
     REGISTRY_HOST=localhost \
-    REGISTRY_PORT=5000 \
+    REGISTRY_PORT=5050 \
     REGISTRY_PROTOCOL=https \
     REGISTRY_SSL_VERIFY=true \
     REGISTRY_ALLOW_DELETE=false \
