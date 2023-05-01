@@ -3,7 +3,7 @@ web:
   volumes:
     - .:/webapp
   ports:
-    - "9998:80"
+    - "9998:99"
   environment:
     REGISTRY_PORT: 5000
     REGISTRY_HOST: 192.168.99.100
